@@ -1,4 +1,4 @@
 # devloper
 Thi is my first Repository
 <br>
-Author - Ganesh Rathod
+Author - Ganesh (subash)
